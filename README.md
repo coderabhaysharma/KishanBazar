@@ -56,8 +56,3 @@ KrishiBazaar is a web platform designed for wholesale crop trading, connecting s
 - Gemini AI
 - Other supporting technologies
 
-## Contribution
-
-KisanBazaar welcomes contributions from the community. Feel free to open issues or submit pull requests to help improve the platform.
-
-**If you find this project helpful, we'd appreciate it if you could give it a star ⭐.**
