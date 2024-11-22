@@ -1,6 +1,6 @@
-# KishanBazaar
+# KrishiBazaar
 
-KishanBazaar is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, KishanBazaar offers a robust set of features for both sellers and consumers in the agricultural marketplace.
+KrishiBazaar is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, KrishiBazaar offers a robust set of features for both sellers and consumers in the agricultural marketplace.
 
 ## Deployed Link
 
