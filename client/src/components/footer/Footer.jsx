@@ -27,7 +27,7 @@ const Footer = () => {
 
         {/* Copyright Text */}
         <p className="text-sm md:text-base mt-2">
-          &copy; 2024 <span className="font-bold">KishanBazar</span>. All rights reserved.
+          &copy; 2024 <span className="font-bold">KrishiBazaar</span>. All rights reserved.
         </p>
       </footer>
     </>

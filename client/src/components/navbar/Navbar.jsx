@@ -51,8 +51,8 @@ function Navbar() {
       <div className="flex flex-wrap items-center justify-between mx-auto px-4 md:px-12 h-12">
         <a href="/" className="flex items-center">
           <span className="text-xl md:text-2xl font-medium whitespace-nowrap">
-            <span className="text-red-500 font-bold">K</span>ishan
-            <span className="text-red-500 font-bold">B</span>azar
+            <span className="text-red-500 font-bold">K</span>rishi
+            <span className="text-red-500 font-bold">B</span>azaar
           </span>
         </a>
         <div className="flex flex-row gap-4 md:gap-8 text-2xl md:text-3xl items-center">

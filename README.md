@@ -1,6 +1,6 @@
-# KishanBazar
+# KishanBazaar
 
-KishanBazar is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, KishanBazar offers a robust set of features for both sellers and consumers in the agricultural marketplace.
+KishanBazaar is a web platform designed for wholesale crop trading, connecting sellers and consumers seamlessly. Although still in development, KishanBazaar offers a robust set of features for both sellers and consumers in the agricultural marketplace.
 
 ## Deployed Link
 
@@ -10,7 +10,7 @@ KishanBazar is a web platform designed for wholesale crop trading, connecting se
 
 ## Features
 
-1. **Dual Interfaces**: KishanBazar provides separate interfaces for consumers and famer, accessible through the navbar with options for SignUp and SignIn including email verification for the created account.
+1. **Dual Interfaces**: KishanBazaar provides separate interfaces for consumers and famer, accessible through the navbar with options for SignUp and SignIn including email verification for the created account.
 
 **_Seller Side_**
 
@@ -58,6 +58,6 @@ KishanBazar is a web platform designed for wholesale crop trading, connecting se
 
 ## Contribution
 
-KisanBazar welcomes contributions from the community. Feel free to open issues or submit pull requests to help improve the platform.
+KisanBazaar welcomes contributions from the community. Feel free to open issues or submit pull requests to help improve the platform.
 
 **If you find this project helpful, we'd appreciate it if you could give it a star ⭐.**

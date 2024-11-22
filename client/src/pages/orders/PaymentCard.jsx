@@ -55,7 +55,7 @@ const PaymentCard = ({
           </div>
           <div className="flex flex-col justify-start items-center">
             <p className="text-lg leading-6  font-semibold text-gray-800">
-              KishanBazar
+              KishanBazaar
               <br />
               <span className="font-normal">Delivery within 24 Hours</span>
             </p>
